@@ -1,0 +1,4 @@
+# Git ignore for SENG474 project
+# If there is anything you don't want to be tracked by git, please add it here.
+
+*.csv
